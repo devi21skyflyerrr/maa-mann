@@ -1,0 +1,7 @@
+[
+  {"id":1,"description":"No symptoms","answers":[0,0,0,0,0,0,0,0,0,0],"expected":{"total":0,"level":"low","urgent":false}},
+  {"id":2,"description":"Borderline","answers":[1,1,1,1,1,1,1,1,1,0],"expected":{"total":9,"level":"mod","urgent":false}},
+  {"id":3,"description":"High risk, no self-harm thoughts","answers":[2,2,2,2,2,2,2,0,0,0],"expected":{"total":14,"level":"high","urgent":false}},
+  {"id":4,"description":"Low total but item 10 positive","answers":[0,0,0,0,0,0,0,0,0,1],"expected":{"total":1,"level":"low","urgent":true}},
+  {"id":5,"description":"Maximum score","answers":[3,3,3,3,3,3,3,3,3,3],"expected":{"total":30,"level":"high","urgent":true}}
+]
