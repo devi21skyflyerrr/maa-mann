@@ -42,7 +42,7 @@ Add an entry to `LANGS` in `index.html` with the UI strings and a `questions` ar
 Cox JL, Holden JM, Sagovsky R (1987). Detection of postnatal depression: development of the 10-item Edinburgh Postnatal Depression Scale. *British Journal of Psychiatry*, 150, 782-786.
 
 ## AI usage disclosure
-AI assistance (Claude, by Anthropic) was used to draft the application code, documentation and form text. Idea selection, clinical content review and final checks were done by the author. Estimated share of AI assistance in the final work: see the presentation (slides 6-7).
+AI assistance (Claude, by Anthropic) was used to draft the application code, documentation and form text. Clinical content review and final checks were done by the author . 
 
 ## Limitations
-Prototype only. Not clinically validated as a deployed tool, not a diagnostic device, and not a substitute for professional assessment.
+Prototype only (screening tool). Not clinically validated as a deployed tool, not a diagnostic device, and not a substitute for professional assessment.
